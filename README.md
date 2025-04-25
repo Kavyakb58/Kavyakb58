@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Kavya K B  
 
-**QA Engineer | Manual Testing | API Testing | Automation Testing (Selenium)**  
+**QA Engineer | Expertise in Manual & Automation Testing | Proficient in Java, Selenium, Postman API | Passionate About Ensuring Product Quality & Driving Continuous Improvement**  
 
 ---
 
@@ -13,8 +13,8 @@
 - 💻 All of my projects are available at [https://github.com/Kavyakb58](https://github.com/Kavyakb58).  
 - 💬 Ask me about **Manual Testing, STLC, Selenium, Postman, TestNG, JAVA, SQL, and JIRA**.  
 - 📫 Reach me at: **kavyakb58@gmail.com**.  
-- 📄 Learn more about my experience: [https://www.linkedin.com/in/kavyakb58](https://www.linkedin.com/in/kavyakb58).  
-- ⚡ Fun fact: I believe in making software better by identifying bugs before users experience them!  
+- 📄 Know more about my experience: [https://www.linkedin.com/in/kavyakb58](https://www.linkedin.com/in/kavyakb58).  
+- ⚡ fact: I believe in making software better by identifying bugs before users experience them!  
 
 ---
 
