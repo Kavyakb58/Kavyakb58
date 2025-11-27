@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kavya K B  
 
-**QA Engineer | Expertise in Manual & Automation Testing | Proficient in Java, Selenium, Postman API | Passionate About Ensuring Product Quality & Driving Continuous Improvement**  
+**QA Automation Engineer | Expertise in Manual & Automation Testing | Proficient in Java, Selenium, Postman API | Passionate About Ensuring Product Quality & Driving Continuous Improvement**  
 
 ---
 
