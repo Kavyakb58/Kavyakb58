@@ -8,7 +8,7 @@
 
 - 🔭 Working on **Selenium Automation** and **API Testing (Rest Assured)**  
 - 🌱 Enhancing skills in **Hybrid Automation Frameworks, TestNG, and CI/CD execution**  
-- 💼 Hands-on experience through QA internships at **:contentReference[oaicite:0]{index=0}** and **:contentReference[oaicite:1]{index=1}**  
+- 💼 Hands-on experience through QA internships at Indusface and Brightchamps Company
 - 🧪 Experienced in **Manual Testing, Automation Testing, STLC, SDLC, and Agile methodologies**  
 - 👯 Open to collaborating on **QA, Automation, and Testing projects**  
 - 💻 All my projects are available at: **https://github.com/Kavyakb58**  
