@@ -50,6 +50,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [OrangeHRM Automation Testing](https://github.com/Kavyakb58/Orangehrm-Automation) | Selenium WebDriver automation project for OrangeHRM | Selenium, Java, TestNG, POM |
 | [OpenCart Manual Testing](https://github.com/Kavyakb58/OpenCart_ManualTesting) | 182 test cases, 10 bugs, full QA documentation | Manual Testing, Excel, Jira |
 | [Student API Testing](https://github.com/Kavyakb58/Student_Dummy_API_Postman) | CRUD API testing with Postman collections | Postman, JSON Server, REST API |
 | [Java Problem Solving](https://github.com/Kavyakb58/java-problem-solving) | Daily Java practice for SDET interview prep | Java, OOPs, Collections |
