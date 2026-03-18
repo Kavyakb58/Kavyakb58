@@ -10,7 +10,7 @@
 - 🤖 Built **300+ automated test cases** using Selenium+Java+TestNG integrated into Jenkins CI/CD — cutting regression time by **35–40%**
 - 🎯 Delivered **zero critical escapes** across multiple production releases at Indusface
 - ✅ Achieved **zero P1 bugs** across 3 consecutive releases at BrightCHAMPS
-- 🌐 Validated **50+ REST API endpoints** using Postman and Rest Assured
+- 🌐 Validated **20+ REST API endpoints** using Postman and Rest Assured
 - 🧪 Experienced in Manual Testing, Automation Testing, API Testing, STLC, SDLC, and Agile
 - 🌱 Currently enhancing skills in **Appium, and advanced CI/CD workflows**
 - 💬 Ask me about **Selenium WebDriver, TestNG, Java, Postman, Jenkins, SQL, Jira, QA frameworks**
