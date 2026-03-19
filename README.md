@@ -16,7 +16,7 @@
 - 💬 Ask me about **Selenium WebDriver, TestNG, Java, Postman, Jenkins, SQL, Jira, QA frameworks**
 - 📫 Reach me at: **kavyakb58@gmail.com**
 - 📄 LinkedIn: **https://www.linkedin.com/in/kavyakb58**
-- 🔍 Open to **QA Automation / SDET roles** in Bangalore, Mumbai, Chennai, and Hyderabad. — remote and hybrid welcome
+- 🔍 Open to **QA Automation / SDET roles** in Bangalore, Mumbai, Chennai, and Hyderabad — remote and hybrid welcome
 - ⚡ I focus on catching defects early to ensure stable, production-ready releases
 
 ---
